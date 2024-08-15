@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+th, tr, td {
+    padding: 8px 20px;
+    border: 5px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    white-space: none;
+    border-collapse: collapse;
+}
+
+form, .container {
+    margin: 8px 20px;
+    justify-content: space-between;
+    text-align: center;
+}
